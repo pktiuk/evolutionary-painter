@@ -6,7 +6,13 @@ Application recreating image by drawing multiple rectangles. To achieve it we ar
 ![](./kitty.jpg)
 
 **Output**
+
 ![](./generated_kitty.png)
+
+# Video Example
+
+
+[![evolutionary painter](https://img.youtube.com/vi/DsNYq7b73DI/0.jpg)](https://youtu.be/DsNYq7b73DI "Evolutionary painter")
 
 ## Preparing
 
