@@ -1,6 +1,8 @@
 # Rectangles Fitting image
 Application recreating image by drawing multiple rectangles. To achieve it we are using genetic algorithm.
 
+It provides simple Python library with binds to C++ SFML.
+
 **Original**
 
 ![](./kitty.jpg)
